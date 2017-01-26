@@ -1,6 +1,6 @@
 # Week 1 Project  
 
-## Your name should appear here!
+## Kaleb Mazurek
 
 <!-- leave this material as is -->
 Compiled on `r date()`.
@@ -10,4 +10,11 @@ library(DataComputing)
 ```
 <!-- put your content after this line -->
 
-Here is my content!
+
+The [French Revolution](https://en.wikipedia.org/wiki/French_Revolution) was a revolution in France
+
+1. It happened in, say, 1789
+1. Heads rolled
+1. Brian Rosenberg knows that Charles Dickens wrote a book called a "A Tale of Two Cities"
+
+![A Good Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/250px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg)
